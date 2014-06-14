@@ -1,0 +1,46 @@
+#selectedTextWindow {
+	width: 80%;
+	height: 75%;
+	background-color: white;
+	color:black;
+	margin-left: 15px;
+	margin-top: 20px;
+	float: left;
+	overflow: hidden;
+	text-align: left;
+	border: 2px #5bc0de solid;
+}
+
+#okButton {
+	float: right;
+	background-color: #428bca;
+	width: 15%;
+	height: 40px;
+	margin-right: 15px;
+    margin-top: 25px;
+
+}
+
+#cancelButton {
+	float: right;
+	background-color: #d9534f;
+	width: 15%;
+	height: 40px;
+	margin-right: 15px;
+    margin-top: 15px;
+
+}
+
+.container {
+    margin: auto 0;
+}
+
+img#folderIcon {
+	width: 16px;
+	height: 16px;
+}
+#alert{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
