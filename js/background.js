@@ -1,6 +1,6 @@
 require(["ItemMirror"], function(ItemMirror){
 'use strict'
-var client = new Dropbox.Client({ key : "0tvr2c53vrh9tdn", sandbox:true});
+var client = new Dropbox.Client({ key : "e87djjebo1o8vwe", sandbox:true});
 
 var   dropboxXooMLUtility,
       dropboxItemUtility,
