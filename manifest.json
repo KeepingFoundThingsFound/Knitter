@@ -2,7 +2,7 @@
   "name": "Knitter",
   "manifest_version": 2,
   "description": "Quick capture and connect",
-  "version": "1.0",
+  "version": "1.1",
   "background": {
     "scripts": [    
       "js/lib/dropbox.min.js",
